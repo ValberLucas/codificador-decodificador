@@ -1,7 +1,7 @@
 # Codificador e Decodificador de texto - Valber Lucas Almeida Cavalcanti
 
 ### Meu projeto
-Este é o primeiro *challenge* desenvolvido durante o programa **ONE - Oracle Next Education - Turma 6**, com o objetivo de colocar em prática o que foi visto. O desafio consiste em criar um **codificador/decodificador** de texto utilizando conhecimentos em **HTML**, **CSS** e **JavaScript** adquiridos durante as aulas. Sempre mantenho meu código o mais organizado possível, para facilitar a compreensão e o acesso, caso algo precise ser alterado.
+Este é o primeiro *challenge* desenvolvido durante o programa **ONE - Oracle Next Education - Turma 6**, com o objetivo de colocar em prática o que foi visto. O desafio consiste em criar um **codificador/decodificador** de texto utilizando conhecimentos em **HTML**, **CSS** e **JavaScript** adquiridos durante as aulas.Sempre mantenho meu código o mais organizado possível, para facilitar a compreensão e o acesso, caso algo precise ser alterado.
 
 #### No JavaScript:
 - Criei a função de codificar separando os caracteres do texto em um *array* (***texto.value.split***), substituindo com ***forEach*** e retornando com ***.join("")***;
